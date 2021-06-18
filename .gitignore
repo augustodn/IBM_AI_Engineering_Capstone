@@ -1,0 +1,10 @@
+!*.ipynb
+.ipynb_checkpoints/
+Negative/
+Positive/
+__MACOSX/
+concrete_data_week2/
+concrete_data_week3/
+concrete_data_week4/
+*.zip
+*.h5
